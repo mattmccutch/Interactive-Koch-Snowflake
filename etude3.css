@@ -1,0 +1,31 @@
+#canvasDiv {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex: 1;
+}
+
+#uiDiv {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+    padding: 10px;
+    background-color: gray;
+}
+
+#sliderValue {
+    margin-bottom: 10px;
+}
+
+#slider {
+    margin-bottom: 20px;
+}
+
+#drawButton {
+    margin-bottom: 30px;
+}
+
+body {
+    display: flex;
+}
